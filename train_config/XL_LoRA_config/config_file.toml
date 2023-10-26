@@ -43,7 +43,7 @@ log_prefix = "sdxl_lora"
 
 [sample_prompt_arguments]
 sample_every_n_epochs = 1 #提示词使用频率
-sample_sampler = "euler_a"
+sample_sampler = "euler_a" #采样方法
 
 [saving_arguments]
 save_model_as = "safetensors"
