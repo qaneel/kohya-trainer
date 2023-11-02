@@ -1,0 +1,8 @@
+[prompt]
+width = 1024
+height = 1024
+scale = 7
+sample_steps = 28
+[[prompt.subset]]
+prompt = "1girl, aqua eyes, baseball cap, blonde hair, closed mouth, earrings, green background, hat, hoop earrings, jewelry, looking at viewer, shirt, short hair, simple background, solo, upper body, yellow shirt"
+
